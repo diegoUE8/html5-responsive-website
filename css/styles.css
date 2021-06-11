@@ -16,12 +16,12 @@ body {
 }
 ::selection {
 	color: #fff;
-	background: #5887FF;
+	background: #00154b;
 }
 
 ::-moz-selection {
  color: #fff;
- background: #5887FF;
+ background: #012580;
 }
 p {
 	color: #858585;
